@@ -1,0 +1,32 @@
+<burger-recipes>
+  <burger-recipe id="1">
+    <name>Maple Bacon Canuck</name>
+    <ingredients>
+      <ol>
+        <li>Beef Patty</li>
+        <li>American Cheddar</li>
+        <li>Onion Rings</li>
+        <li>Maple Glazed Bacon<li>
+        <li>Pickles</li>
+        <li>Memphis BBQ Sauce</li>
+        <li>Garlic Aioli</li>
+        <li>American Mustard</li>
+      </ol>
+    </ingredients>
+  </burger-recipe>
+  <burger-recipe id="2">
+    <name>The Mac Daddy</name>
+    <ingredients>
+      <ol>
+        <li>Mac n' Cheese</li>
+        <li>Triple American Cheddar</li>
+        <li>Beef Patty</li>
+        <li>Potato Cake</li>
+        <li>Slow cooked Beef Brisket</li>
+        <li>Crispy Bacon</li>
+        <li>Ketchup</li>
+        <li>Mustard</li>
+        <li>Mayo</li>
+      </ol>
+    </ingredients>
+</burger-recipes>
