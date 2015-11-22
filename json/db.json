@@ -1,0 +1,39 @@
+{
+  "colors": [
+    {
+      "name": "darkolive",
+      "hue": 82,
+      "saturation": 39,
+      "lightness": 30,
+      "id": 1
+    },
+    {
+      "name": "cadetblue",
+      "hue": 182,
+      "saturation": 25,
+      "lightness": 50,
+      "id": 3
+    },
+    {
+      "name": "aquamarine",
+      "hue": 160,
+      "saturation": 100,
+      "lightness": 75,
+      "id": 4
+    },
+    {
+      "name": "azure",
+      "hue": 180,
+      "saturation": 100,
+      "lightness": 97,
+      "id": 5
+    },
+    {
+      "name": "bisque",
+      "hue": 33,
+      "saturation": 100,
+      "lightness": 88,
+      "id": 6
+    }
+  ]
+}
