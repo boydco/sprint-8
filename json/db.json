@@ -35,5 +35,39 @@
       "lightness": 88,
       "id": 6
     }
+  ],
+  "games": [
+    {
+      "history": [],
+      "id": 1
+    },
+    {
+      "history": [],
+      "id": 2
+    },
+    {
+      "history": [],
+      "id": 3
+    },
+    {
+      "history": [],
+      "id": 4
+    },
+    {
+      "history": [],
+      "id": 5
+    },
+    {
+      "history": [
+        1,
+        3,
+        5,
+        2,
+        4,
+        6,
+        0
+      ],
+      "id": 6
+    }
   ]
 }
